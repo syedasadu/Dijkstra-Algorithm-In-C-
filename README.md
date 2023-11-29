@@ -1,2 +1,2 @@
-# Dijkstra-Algorithm-In-C-
+# Dijkstra-Algorithm-In-C++
 Implemented Dijkstra algorithm without using any built-in function 
